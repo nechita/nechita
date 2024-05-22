@@ -1,6 +1,6 @@
 # Gabriel Nechita :computer: :rocket:
 
-### Growth Engineer @ ElevenLabs | Full Stack Engineer from Braşov, Romania :world_map:
+### Full Stack Engineer from Braşov, Romania :world_map: Ex-ElevenLabs | Ex-Toptal | Ex-Google
 
 ---
 
@@ -10,13 +10,15 @@ With a deep passion for building and scaling digital experiences, I've navigated
 
 📈 **Professionally:**
 
-- **Currently enhancing:** Technical SEO and page performance at **[ElevenLabs](https://elevenlabs.io/)**.
+- **Currently Exploring** Indie Making 
+- **Previously enhancing:** Technical SEO and page performance at **[ElevenLabs](https://elevenlabs.io/)**.
 - **Crafting code for:** A diverse portfolio including **[Toptal](https://www.toptal.com/)**, **[Arnia](https://www.arnia.com/)**, and more.
 - **Skill Set:** JavaScript, NodeJS, React, Golang, Python, HTML5, CSS3.
 - **Fun Fact:** Transitioned from marketing guru to full stack hero! 🦸
 
 🛠️ **What I'm Passionate About:**
 
+- Learning new things about SEO
 - Creating seamless user experiences and robust backend solutions.
 - Leveraging my marketing background to drive user engagement and optimize interaction.
 - Continuous learning and staying ahead of the tech curve.
